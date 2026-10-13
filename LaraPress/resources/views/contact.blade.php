@@ -96,7 +96,7 @@
                     <div class="info-box">
                         <span class="label">Email Mahasiswa</span>
                         <div class="value">
-                            <a href="mailto:marwansi4524110@univpancasila.ac.id.com"> marwansi4524110@univpancasila.ac.id.com</a>
+                            <a href="mailto:marwansi4524110@univpancasila.ac.id.com">marwansi4524110@univpancasila.ac.id.com</a>
                         </div>
                     </div>
 
@@ -104,14 +104,9 @@
                         <span class="label">Instagram Profil</span>
                         <div class="value">
                             <a href="https://www.instagram.com/marwansijabat?srtk=MTQyaGNsMzZodHZoMw==" target="_blank">
-                                 @Kholil_Irsyad_Marwan
+                                @Kholil_Irsyad_Marwan
                             </a>
                         </div>
-                    </div>
-
-                    <div class="info-box">
-                        <span class="label">Minat Utama</span>
-                        <div class="value">Data Analytics, Machine Learning, & Statistical Exploration</div>
                     </div>
                 </div>
 
@@ -130,7 +125,7 @@
                         <span class="label">Featured Repository</span>
                         <div class="value">
                             <a href="https://github.com/KholilIrsyadMarwan/Kelompok_3_CrowdStrike-Global-Outage-Juli-2024" target="_blank">
-                                 CrowdStrike Global Outage Analysis
+                                CrowdStrike Global Outage Analysis
                             </a>
                         </div>
                     </div>
@@ -139,7 +134,7 @@
                         <span class="label">GitHub Profile</span>
                         <div class="value">
                             <a href="https://github.com/KholilIrsyadMarwan" target="_blank">
-                                 github.com/KholilIrsyadMarwan
+                                github.com/KholilIrsyadMarwan
                             </a>
                         </div>
                     </div>
