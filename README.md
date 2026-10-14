@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# PRAKTIKUM 3 
+# LAPORAN PRAKTIKUM 
 *Laporan ini disusun untuk memenuhi Tugas Praktikum 3 Pemrograman Berbasis Web*
 
 **Dosen Pengampu:** Bambang Riono Arsad, S.Kom., MMSI
