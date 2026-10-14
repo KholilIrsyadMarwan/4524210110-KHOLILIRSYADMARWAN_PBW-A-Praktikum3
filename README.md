@@ -29,14 +29,14 @@
 
 ---
 
-# 🚀 Praktikum 3 - Pemrograman Berbasis Web (PBW)
+# Praktikum 3 - Pemrograman Berbasis Web (PBW)
 
 Repositori ini berisi kode sumber dan dokumentasi pengerjaan **Praktikum 3: Instalasi, Konfigurasi, dan Halaman Pertama Laravel** pada mata kuliah *Pemrograman Berbasis Web
 
 
 ---
 
-## 📌 Soal & Jawaban Praktikum
+##  Soal & Jawaban Praktikum
 
 ### **Soal:**
 1. Buat satu halaman statis baru bernama **"Kontak"**.
@@ -45,7 +45,7 @@ Repositori ini berisi kode sumber dan dokumentasi pengerjaan **Praktikum 3: Inst
 4. Jangan lupa tambahkan link navigasi ke dan dari halaman "Kontak" di halaman lainnya.
 
 ---
-
+### **Jawaban:**
 ### 1. Membuat Halaman Kontak
 <img width="1057" height="500" alt="1" src="https://github.com/user-attachments/assets/6a800f14-5f8a-4621-aec9-c0c8bc050ded" />
 Penjelasan : Tampilan ini berisikan beberapa informasi seperti email pribadi,serta link github.
