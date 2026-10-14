@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # LAPORAN PRAKTIKUM
@@ -7,7 +8,7 @@
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Universitas_Pancasila.png" width="180" alt="Logo Universitas Pancasila">
+<img width="286" height="242" alt="Logo" src="https://github.com/user-attachments/assets/d8d471db-090b-48c4-995b-b6b4ee89218b" />
 
 <br>
 <br>
