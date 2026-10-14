@@ -27,16 +27,8 @@
 
 </div>
 
----
-
-# Praktikum 3 - Pemrograman Berbasis Web (PBW)
-
-Repositori ini berisi kode sumber dan dokumentasi pengerjaan **Praktikum 3: Instalasi, Konfigurasi, dan Halaman Pertama Laravel** pada mata kuliah *Pemrograman Berbasis Web
-
 
 ---
-
-##  Soal & Jawaban Praktikum
 
 ### **Soal:**
 1. Buat satu halaman statis baru bernama **"Kontak"**.
