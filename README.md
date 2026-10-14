@@ -51,10 +51,10 @@ Repositori ini berisi kode sumber dan dokumentasi pengerjaan **Praktikum 3: Inst
 Penjelasan : Tampilan ini berisikan beberapa informasi seperti email pribadi,serta link github.
 
 ### 2. Bisa akses url Kontak
-<img width="962" height="477" alt="Baru1" src="https://github.com/user-attachments/assets/fc22ca31-04f6-4b54-916b-f8dce1f8ca98" />
-Dari halaman Beranda bisa akses link ke halaman Kontak begitu juga sebaliknya.
-<img width="462" height="339" alt="Baru2" src="https://github.com/user-attachments/assets/dc9084e3-967d-468d-ae05-b608d6fe9391" />
-Dari halaman Tentang Kami bisa akses link ke halaman Kontak begitu juga sebaliknya.
+<img width="962" height="477" alt="Baru1" src="https://github.com/user-attachments/assets/fc22ca31-04f6-4b54-916b-f8dce1f8ca98" /><br>
+Dari halaman Beranda bisa akses link ke halaman Kontak begitu juga sebaliknya.<br>
+<img width="462" height="339" alt="Baru2" src="https://github.com/user-attachments/assets/dc9084e3-967d-468d-ae05-b608d6fe9391" /><br>
+Dari halaman Tentang Kami bisa akses link ke halaman Kontak begitu juga sebaliknya.<br>
 
 ---
 
