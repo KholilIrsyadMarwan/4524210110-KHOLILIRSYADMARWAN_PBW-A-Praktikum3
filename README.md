@@ -46,21 +46,27 @@ Repositori ini berisi kode sumber dan dokumentasi pengerjaan **Praktikum 3: Inst
 
 ---
 
-### **Jawaban & Penjelasan Implementasi:**
+### 1. Membuat Halaman Kontak
+<img width="1057" height="500" alt="1" src="https://github.com/user-attachments/assets/6a800f14-5f8a-4621-aec9-c0c8bc050ded" />
+Penjelasan : Tampilan ini berisikan beberapa informasi seperti email pribadi,serta link github.
 
-#### **1. Membuat Halaman Kontak (`/kontak`)**
+### 2. Bisa akses url Kontak
+<img width="962" height="477" alt="Baru1" src="https://github.com/user-attachments/assets/fc22ca31-04f6-4b54-916b-f8dce1f8ca98" />
+Dari halaman Beranda bisa akses link ke halaman Kontak begitu juga sebaliknya.
+<img width="462" height="339" alt="Baru2" src="https://github.com/user-attachments/assets/dc9084e3-967d-468d-ae05-b608d6fe9391" />
+Dari halaman Tentang Kami bisa akses link ke halaman Kontak begitu juga sebaliknya.
 
-<img width="1057" height="500" alt="1" src="https://github.com/user-attachments/assets/d04c5518-da10-4246-8040-67a3aeb76e39" />
-Penjelasan:Tampilan ini berisikan beberapa informasi seperti email pribadi, Instagram, serta link proyek repositori GitHub.
+---
 
-#### **2. Akses Navigasi Ke dan Dari Halaman Kontak**
-> **Penjelasan:** Dari halaman Kontak bisa akses link ke halaman Beranda begitu juga sebaliknya (serta ke halaman Tentang Kami).
+### 3. Halaman kontak ada Email dan lainnya
 
-#### **3. Informasi Kontak (Email & Media Sosial)**
-> **Penjelasan:** Disini saya menggunakan Email Mahasiswa (`marwansi4524110@univpancasila.ac.id.com`) dan Instagram (`@Kholil_Irsyad_Marwan`).
+Disini saya menggunakan email dan instagram.
 
-#### **4. Menu Navigasi Utama**
-> **Penjelasan:** Terdapat menu navigasi interaktif (*Navbar*) di bagian atas, jadi kita bisa mengakses ke halaman **Beranda**, **Tentang Kami**, dan **Kontak** secara terintegrasi.
+---
+
+### 4. Menu navigasi
+
+Jadi kita bisa mengakses ke halaman beranda, tentang kami dan kontak[cite: 5].
 
 ---
 
