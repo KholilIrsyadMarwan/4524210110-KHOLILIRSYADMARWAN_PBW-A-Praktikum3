@@ -70,13 +70,16 @@ Jadi kita bisa mengakses ke halaman beranda, tentang kami dan kontak.<br>
 
 ---
 
-## 🖥️ Halaman Tersedia
+## Halaman Tersedia
 
-1. **Beranda**
-   Tampilan utama portofolio interaktif berbasis Laravel 12 yang menyajikan ringkasan profil, keahlian utama, dan tombol aksi navigasi cepat.
-2. **Tentang Kami**
+1. **Beranda/Home**
+   <img width="1600" height="739" alt="Beranda" src="https://github.com/user-attachments/assets/7acb88e2-be7b-4f7c-9333-bcfc5961694e" /> <br>
+   Tampilan  menyajikan ringkasan profil, minat utama, dan tombol aksi navigasi cepat.<br>
+2. **Tentang Kami / About**
+   <img width="1600" height="728" alt="About" src="https://github.com/user-attachments/assets/0242c721-78d8-491f-9b6e-477b06364602" />
    Tampilan biografi ringkas beserta metodologi dan alur kerja pemrosesan data (seperti *Data Cleaning*, *EDA*, dan *Prototyping*).
-3. **Kontak**
+3. **Kontak/Contact**
+   <img width="1600" height="760" alt="Kontak" src="https://github.com/user-attachments/assets/2d0cdea1-b5ed-4fb4-a259-d68659b2b96c" />
    Tampilan pusat saluran komunikasi resmi untuk diskusi akademik, profil sosial media, serta repositori kode di GitHub.
 
 ---
