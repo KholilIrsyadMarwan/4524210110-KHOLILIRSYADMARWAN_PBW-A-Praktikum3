@@ -59,14 +59,14 @@ Dari halaman Tentang Kami bisa akses link ke halaman Kontak begitu juga sebalikn
 ---
 
 ### 3. Halaman kontak ada Email dan lainnya
-<img width="678" height="456" alt="4" src="https://github.com/user-attachments/assets/7fceece8-ad39-451c-9d65-8b7c8c1bb4eb" />
-Disini saya menggunakan email dan instagram.
+<img width="678" height="456" alt="4" src="https://github.com/user-attachments/assets/7fceece8-ad39-451c-9d65-8b7c8c1bb4eb" /><br>
+Disini saya menggunakan email dan instagram.<br>
 
 ---
 
 ### 4. Menu navigasi
-<img width="521" height="104" alt="5" src="https://github.com/user-attachments/assets/4ee12837-c774-4b8d-b9c0-013ba88c00ba" />
-Jadi kita bisa mengakses ke halaman beranda, tentang kami dan kontak[cite: 5].
+<img width="521" height="104" alt="5" src="https://github.com/user-attachments/assets/4ee12837-c774-4b8d-b9c0-013ba88c00ba" /><br>
+Jadi kita bisa mengakses ke halaman beranda, tentang kami dan kontak.<br>
 
 ---
 
