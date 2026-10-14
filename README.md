@@ -51,7 +51,7 @@ Repositori ini berisi kode sumber dan dokumentasi pengerjaan **Praktikum 3: Inst
 #### **1. Membuat Halaman Kontak (`/kontak`)**
 
 <img width="1057" height="500" alt="1" src="https://github.com/user-attachments/assets/d04c5518-da10-4246-8040-67a3aeb76e39" />
-**Penjelasan:** Tampilan ini berisikan beberapa informasi seperti email pribadi, Instagram, serta link proyek repositori GitHub.
+Penjelasan:Tampilan ini berisikan beberapa informasi seperti email pribadi, Instagram, serta link proyek repositori GitHub.
 
 #### **2. Akses Navigasi Ke dan Dari Halaman Kontak**
 > **Penjelasan:** Dari halaman Kontak bisa akses link ke halaman Beranda begitu juga sebaliknya (serta ke halaman Tentang Kami).
