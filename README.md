@@ -102,7 +102,7 @@ Halaman khusus kontak yang menampilkan Email Mahasiswa (`marwansi4524110@univpan
 ⚙️ Cara Menjalankan Proyek 
 1. Clone Repositori
 Bash
-git clone [https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3.git].
+git clone [[https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3.git]](https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN_PBW-A-Praktikum3.git).
 2. Masuk ke Folder Proyek
 Bash
 cd 4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3/LaraPress
@@ -116,8 +116,3 @@ php artisan key:generate
 5. Jalankan Server Lokal
 Bash
 php artisan serve
-6. Buka di Browser
-Akses aplikasi melalui alamat berikut:
-Beranda: http://127.0.0.1:8000
-Tentang Kami: http://127.0.0.1:8000/about
-Kontak: http://127.0.0.1:8000/kontak
