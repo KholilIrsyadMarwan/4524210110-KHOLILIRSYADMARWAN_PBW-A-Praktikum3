@@ -16,7 +16,23 @@
 
 </div>
 
+## Instalasi
 ---
+1. Clone Repositori <br>
+git clone [https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3.git].
+2. Masuk ke Folder Proyek<br>
+cd 4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3/LaraPress
+3. Install Dependencies <br>
+composer install
+4. Setup Environment File <br>
+cp .env.example .env <br>
+php artisan
+key:generate
+6. Jalankan Server Lokal <br>
+php artisan serve
+
+---
+
 ## 📑 Daftar Isi
 
 - [🎯 Tentang Aplikasi](#-tentang-aplikasi)
@@ -26,7 +42,7 @@
 - [✨ Fitur Utama](#-fitur-utama)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [📸 Hasil Screenshot Tampilan Website LaraPress](#-hasil-screenshot-tampilan-website-larapress)
-- [⚙️ Cara Menjalankan Proyek](#️-cara-menjalankan-proyek)
+
 
 ---
 ## 🎯 Tentang Aplikasi
@@ -125,17 +141,4 @@ Halaman khusus kontak yang menampilkan Email Mahasiswa (`marwansi4524110@univpan
 <img width="1600" height="760" alt="Kontak" src="https://github.com/user-attachments/assets/2d0cdea1-b5ed-4fb4-a259-d68659b2b96c" />
 
 ---
-⚙️ Cara Menjalankan Proyek 
-1. Clone Repositori <br>
-Bash
-git clone [[https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3.git]](https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN_PBW-A-Praktikum3.git).
-2. Masuk ke Folder Proyek<br>
-cd 4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3/LaraPress
-3. Install Dependencies <br>
-composer install
-4. Setup Environment File <br>
-cp .env.example .env <br>
-php artisan
-key:generate
-6. Jalankan Server Lokal <br>
-php artisan serve
+
