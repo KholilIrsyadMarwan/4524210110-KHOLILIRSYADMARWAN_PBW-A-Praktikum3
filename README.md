@@ -19,7 +19,7 @@
 ## Instalasi
 ---
 1. Clone Repositori <br>
-git clone [https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3.git].
+git clone [https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN_PBW-A-Praktikum3.git].
 2. Masuk ke Folder Proyek<br>
 cd 4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3/LaraPress
 3. Install Dependencies <br>
