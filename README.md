@@ -16,8 +16,9 @@
 
 </div>
 
-## Instalasi
 ---
+## Instalasi
+
 1. Clone Repositori <br>
 git clone [https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN_PBW-A-Praktikum3.git].
 2. Masuk ke Folder Proyek<br>
