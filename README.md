@@ -2,22 +2,10 @@
 
 # 📘 LAPORAN PRAKTIKUM PERTEMUAN KE - 3
 ### 🧑‍🎓 Kholil Irsyad Marwan - 4524210110
-
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Universitas_Pancasila.png" width="160" alt="Logo Universitas Pancasila">
-
-<br>
-
-### **PROGRAM STUDI TEKNIK INFORMATIKA - FAKULTAS TEKNIK**
-### **UNIVERSITAS PANCASILA**
-**2026/2027**
-
-<br>
-
-# 🚀 Website Portofolio Interaktif (LaraPress)
+# 🚀 Website LaraPress
 *Laporan ini disusun untuk memenuhi Tugas Praktikum 3 Pemrograman Berbasis Web*  
-**Dosen Pengampu:** Bambang Riono Arsad, S.Kom., MMSI
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12">
@@ -44,14 +32,38 @@
 4. Jangan lupa tambahkan link navigasi ke dan dari halaman "Kontak" di halaman lainnya[cite: 3].
 
 ---
+### **Jawaban:**
+### 1. Membuat Halaman Kontak
+<img width="1057" height="500" alt="1" src="https://github.com/user-attachments/assets/6a800f14-5f8a-4621-aec9-c0c8bc050ded" />
+Penjelasan : Tampilan ini berisikan beberapa informasi seperti email pribadi,serta link github.
+
+### 2. Bisa akses url Kontak
+<img width="962" height="477" alt="Baru1" src="https://github.com/user-attachments/assets/fc22ca31-04f6-4b54-916b-f8dce1f8ca98" /><br>
+Dari halaman Beranda bisa akses link ke halaman Kontak begitu juga sebaliknya.<br>
+<img width="462" height="339" alt="Baru2" src="https://github.com/user-attachments/assets/dc9084e3-967d-468d-ae05-b608d6fe9391" /><br>
+Dari halaman Tentang Kami bisa akses link ke halaman Kontak begitu juga sebaliknya.<br>
+
+---
+
+### 3. Halaman kontak ada Email dan lainnya
+<img width="678" height="456" alt="4" src="https://github.com/user-attachments/assets/7fceece8-ad39-451c-9d65-8b7c8c1bb4eb" /><br>
+Disini saya menggunakan email dan instagram.<br>
+
+---
+
+### 4. Menu navigasi
+<img width="521" height="104" alt="5" src="https://github.com/user-attachments/assets/4ee12837-c774-4b8d-b9c0-013ba88c00ba" /><br>
+Jadi kita bisa mengakses ke halaman beranda, tentang kami dan kontak.<br>
+
+---
 
 ## ✨ Fitur Utama
 
-- ✅ **Halaman Kontak (`/kontak`)** - Menyajikan informasi saluran komunikasi resmi (Email Mahasiswa & Instagram) serta tautan repositori GitHub[cite: 3, 5].
-- ✅ **Navigasi Interaktif** - *Navbar* terintegrasi yang memudahkan perpindahan antar halaman (Beranda, Tentang Kami, Kontak)[cite: 3, 5].
-- ✅ **Dark Mode UI** - Desain antarmuka modern dengan skema warna gelap yang bersih dan nyaman dibaca[cite: 3].
-- ✅ **Call to Action (CTA)** - Tombol navigasi cepat antar halaman di bagian bawah kartu informasi[cite: 3].
-- ✅ **Multi-Halaman Statis** - Terdiri dari Beranda, Tentang Kami, dan Kontak[cite: 3, 6].
+- ✅ **Halaman Kontak (`/kontak`)** - Menyajikan informasi saluran komunikasi resmi (Email Mahasiswa & Instagram) serta tautan repositori GitHub.
+- ✅ **Navigasi Interaktif** - *Navbar* terintegrasi yang memudahkan perpindahan antar halaman (Beranda, Tentang Kami, Kontak).
+- ✅ **Dark Mode UI** - Desain antarmuka modern dengan skema warna gelap yang bersih dan nyaman dibaca.
+- ✅ **Call to Action (CTA)** - Tombol navigasi cepat antar halaman di bagian bawah kartu informasi.
+- ✅ **Multi-Halaman Statis** - Terdiri dari Beranda, Tentang Kami, dan Kontak.
 
 ---
 
@@ -72,37 +84,18 @@
 
 ### 1. Halaman Beranda (`/`)
 Tampilan utama portofolio interaktif yang menyajikan ringkasan profil, keahlian utama, dan tombol aksi navigasi cepat.
-<img width="1600" alt="Halaman Beranda" src="https://github.com/user-attachments/assets/b11e164c-d99c-4991-8370-9544be4a1ea5" />
+   <img width="1600" height="739" alt="Beranda" src="https://github.com/user-attachments/assets/7acb88e2-be7b-4f7c-9333-bcfc5961694e" /> <br>
 
 ---
 
 ### 2. Halaman Tentang Kami (`/about`)
-Menampilkan biografi ringkas beserta alur kerja pemrosesan data (*Data Cleaning*, *EDA*, dan *Prototyping*)[cite: 6].
-<img width="1600" alt="Halaman Tentang Kami" src="https://github.com/user-attachments/assets/07a6f543-1bb8-4d7b-8025-61f534576c77" />
+Menampilkan biografi ringkas beserta alur kerja pemrosesan data (*Data Cleaning*, *EDA*, dan *Prototyping*).
+<img width="1600" height="728" alt="About" src="https://github.com/user-attachments/assets/0242c721-78d8-491f-9b6e-477b06364602" />
 
 ---
 
 ### 3. Halaman Kontak (`/kontak`)
-Halaman khusus kontak yang menampilkan Email Mahasiswa (`marwansi4524110@univpancasila.ac.id`), Profil Instagram (`@Kholil_Irsyad_Marwan`), serta tautan repositori GitHub[cite: 3, 5].
-<img width="1600" alt="Halaman Kontak" src="https://github.com/user-attachments/assets/077cc92d-0825-4080-969f-db7b63576bdd" />
+Halaman khusus kontak yang menampilkan Email Mahasiswa (`marwansi4524110@univpancasila.ac.id`), Profil Instagram (`@Kholil_Irsyad_Marwan`), serta tautan repositori GitHub.
+<img width="1600" height="760" alt="Kontak" src="https://github.com/user-attachments/assets/2d0cdea1-b5ed-4fb4-a259-d68659b2b96c" />
 
 ---
-
-### 4. Detail Komponen Halaman Kontak & Navigasi
-
-* **Informasi & Media Sosial:**
-  <img width="1600" alt="Detail Kontak" src="https://github.com/user-attachments/assets/388e10f6-0c5f-4f1a-847c-e9dc4646065e" />
-
-* **Menu Navigasi Utama:**
-  <img width="1600" alt="Menu Navigasi" src="https://github.com/user-attachments/assets/eb97a2c8-2305-4f6e-b58f-444688327223" />
-
----
-
-## 📁 Struktur File Views
-
-```text
-LaraPress/
-└── resources/views/
-    ├── welcome.blade.php       # Halaman Utama / Beranda
-    ├── about.blade.php         # Halaman Tentang Kami
-    └── contact.blade.php       # Halaman Kontak
