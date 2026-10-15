@@ -1,137 +1,134 @@
-📘 LAPORAN PRAKTIKUM PERTEMUAN KE - 3
+<div align="center">
 
-Laporan ini disusun untuk memenuhi Tugas Praktikum 3 Pemrograman Berbasis Web
+# 📘 LAPORAN PRAKTIKUM PERTEMUAN KE - 3
+### 🧑‍🎓 Kholil Irsyad Marwan - 4524210110
 
-Dosen Pengampu: Bambang Riono Arsad, S.Kom., MMSI
+<br>
 
-🧑‍🎓 Oleh:
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Universitas_Pancasila.png" width="160" alt="Logo Universitas Pancasila">
 
-Kholil Irsyad Marwan — 4524210110
+<br>
 
-Kelas PBW - A
+### **PROGRAM STUDI TEKNIK INFORMATIKA - FAKULTAS TEKNIK**
+### **UNIVERSITAS PANCASILA**
+**2026/2027**
 
-PROGRAM STUDI TEKNIK INFORMATIKA
+<br>
 
-FAKULTAS TEKNIK — UNIVERSITAS PANCASILA
+# 🚀 Website Portofolio Interaktif (LaraPress)
+*Laporan ini disusun untuk memenuhi Tugas Praktikum 3 Pemrograman Berbasis Web*  
+**Dosen Pengampu:** Bambang Riono Arsad, S.Kom., MMSI
 
-2026/2027
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12">
+  <img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.2">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Blade-Templates-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade">
+</p>
 
-🎯 Tentang Aplikasi
+</div>
 
-LaraPress adalah aplikasi web portofolio interaktif berbasis Laravel 12 yang dibangun pada Praktikum 3. Aplikasi ini dirancang untuk menampilkan profil profesional, keahlian, alur kerja pemrosesan data, serta saluran komunikasi terintegrasi dengan gaya antarmuka Dark Slate Glassmorphism.
+---
 
-🌐 Halaman Tersedia (Available Pages):
+## 🎯 Tentang Aplikasi
 
-Halaman Beranda (/) — Tampilan utama portofolio yang menyajikan ringkasan profil, skills stack, dan tombol navigasi cepat.
+**LaraPress** adalah aplikasi portofolio interaktif berbasis **Laravel 12** yang dirancang untuk menampilkan profil profesional, metodologi pemrosesan data, serta saluran komunikasi dan repositori proyek secara terintegrasi.
 
-Halaman Tentang Kami (/about) — Biografi ringkas beserta metodologi dan alur kerja pemrosesan data.
+---
 
-Halaman Kontak (/kontak) — Pusat informasi komunikasi publik, sosial media, dan tautan repositori kode di GitHub.
+## 📌 Soal Tugas Praktikum
 
-✨ Fitur Utama
+1. Buat satu halaman statis baru bernama **"Kontak"**.
+2. Halaman ini harus bisa diakses melalui URL `/kontak`.
+3. Isi halaman tersebut dengan informasi kontak fiktif (misal: email dan nomor telepon).
+4. Jangan lupa tambahkan link navigasi ke dan dari halaman "Kontak" di halaman lainnya.
 
-✅ 3 Halaman Statis Terintegrasi — Navigasi seamless antar halaman (Beranda, Tentang Kami, dan Kontak).
+---
 
-✅ Dark Slate & Cyan Glassmorphism UI — Desain modern dan elegan berbasis CSS Vanilla kustom.
+## ✨ Fitur Utama
 
-✅ Desain Responsif — Tampilan optimal di berbagai ukuran layar device.
+- ✅ **Halaman Kontak (`/kontak`)** - Menyajikan informasi saluran komunikasi resmi (Email Mahasiswa & Instagram) serta tautan repositori GitHub.
+- ✅ **Navigasi Interaktif** - *Navbar* terintegrasi yang memudahkan perpindahan antar halaman (Beranda, Tentang Kami, Kontak).
+- ✅ **Dark Mode UI** - Desain antarmuka modern dengan skema warna gelap yang bersih dan nyaman dibaca.
+- ✅ **Call to Action (CTA)** - Tombol navigasi cepat antar halaman di bagian bawah kartu informasi.
+- ✅ **Multi-Halaman Statis** - Terdiri dari Beranda, Tentang Kami, dan Kontak.
 
-✅ Profil & Sosial Media Link — Akses langsung ke Email Mahasiswa, Instagram, dan Repositori GitHub.
+---
 
-✅ Interaktif Call to Action (CTA) — Tombol navigasi cepat antar halaman.
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
+### Backend & Framework
+- **Laravel 12.x** - PHP Framework
+- **PHP ^8.2** - Programming Language
+- **Blade Engine** - Templating System
 
-Backend
+### Frontend
+- **Tailwind CSS** - CSS Framework
+- **Responsive Layout** - Modern UI Design
 
-Laravel 12.x — PHP Web Framework
+---
 
-PHP ^8.2 — Programming Language
+## 📸 Hasil Screenshot Tampilan Website LaraPress
 
-Eloquent ORM — Database Management
+### 1. Halaman Beranda (`/`)
+Tampilan utama portofolio interaktif yang menyajikan ringkasan profil, keahlian utama, dan tombol aksi navigasi cepat.
+<img width="1600" alt="Halaman Beranda" src="https://github.com/user-attachments/assets/b11e164c-d99c-4991-8370-9544be4a1ea5" />
 
-Frontend
+---
 
-Blade Templates — Laravel Engine Templating
+### 2. Halaman Tentang Kami (`/about`)
+Menampilkan biografi ringkas beserta alur kerja pemrosesan data (*Data Cleaning*, *EDA*, dan *Prototyping*).
+<img width="1600" alt="Halaman Tentang Kami" src="https://github.com/user-attachments/assets/07a6f543-1bb8-4d7b-8025-61f534576c77" />
 
-Custom CSS3 — Flexbox, CSS Grid, & Glassmorphism Styling
+---
 
-📋 Soal & Jawaban Praktikum
+### 3. Halaman Kontak (`/kontak`)
+Halaman khusus kontak yang menampilkan Email Mahasiswa (`marwansi4524110@univpancasila.ac.id`), Profil Instagram (`@Kholil_Irsyad_Marwan`), serta tautan repositori GitHub.
+<img width="1600" alt="Halaman Kontak" src="https://github.com/user-attachments/assets/077cc92d-0825-4080-969f-db7b63576bdd" />
 
-Soal:
+---
 
-Buat satu halaman statis baru bernama "Kontak".
+### 4. Detail Komponen Halaman Kontak & Navigasi
 
-Halaman ini harus bisa diakses melalui URL /kontak.
+* **Informasi & Media Sosial:**
+  <img width="1600" alt="Detail Kontak" src="https://github.com/user-attachments/assets/388e10f6-0c5f-4f1a-847c-e9dc4646065e" />
 
-Isi halaman tersebut dengan informasi kontak fiktif (misal: email dan nomor telepon).
+* **Menu Navigasi Utama:**
+  <img width="1600" alt="Menu Navigasi" src="https://github.com/user-attachments/assets/eb97a2c8-2305-4f6e-b58f-444688327223" />
 
-Jangan lupa tambahkan link navigasi ke dan dari halaman "Kontak" di halaman lainnya.
+---
 
-Jawaban & Penjelasan Implementasi:
+## 📁 Struktur File Views
 
-1. Membuat Halaman Kontak (/kontak)
-
-Penjelasan: Tampilan ini berisikan beberapa informasi seperti email pribadi, media sosial, serta link profil dan repositori GitHub.
-
-2. Akses Navigasi Antar Halaman
-
-Penjelasan:
-
-Dari halaman Kontak, pengguna dapat mengakses link ke halaman Tentang Kami begitu juga sebaliknya.
-
-Dari halaman Kontak, pengguna juga dapat mengakses link ke halaman Beranda begitu juga sebaliknya.
-
-3. Detail Informasi Kontak
-
-Penjelasan: Pada halaman ini digunakan rincian kontak berupa Email Mahasiswa (marwansi4524110@univpancasila.ac.id.com) dan Instagram (@Kholil_Irsyad_Marwan).
-
-4. Menu Navigasi Utama (Navbar)
-
-Penjelasan: Disediakan bilah navigasi utama di bagian atas sehingga pengguna dapat dengan mudah mengakses ke halaman Beranda, Tentang Kami, dan Kontak.
-
-📸 Hasil Screenshot Tampilan Website
-
-1. Halaman Beranda (Home)
-
-2. Halaman Tentang Kami (About)
-
-3. Halaman Kontak (Contact)
-
-📁 Struktur File Utama (Views)
-
+```text
 LaraPress/
 └── resources/views/
     ├── welcome.blade.php       # Halaman Utama / Beranda
     ├── about.blade.php         # Halaman Tentang Kami
     └── contact.blade.php       # Halaman Kontak
 
+---
 
-⚙️ Cara Menjalankan Proyek (How to Run)
-
-Follow these steps to run the project locally on your machine:
-
-Clone Repositori:
-
-git clone https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3.git
-
-
-Masuk ke Folder Proyek:
-
+⚙️ Cara Menjalankan Proyek (Instalasi)
+1. Clone Repositori
+Bash
+git clone [https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3.git](https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3.git)
+2. Masuk ke Folder Proyek
+Bash
 cd 4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3/LaraPress
-
-
-Install Dependencies (Jika Diperlukan):
-
+3. Install Dependencies (Jika Diperlukan)
+Bash
 composer install
-
-
-Jalankan Server Lokal Laravel:
-
+4. Setup Environment File
+Bash
+cp .env.example .env
+php artisan key:generate
+5. Jalankan Server Lokal
+Bash
 php artisan serve
+6. Buka di Browser
 
-
-Akses Aplikasi di Browser:
+Akses aplikasi melalui alamat berikut:
 
 Beranda: http://127.0.0.1:8000
 
