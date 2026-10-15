@@ -100,19 +100,15 @@ Halaman khusus kontak yang menampilkan Email Mahasiswa (`marwansi4524110@univpan
 
 ---
 ⚙️ Cara Menjalankan Proyek 
-1. Clone Repositori
+1. Clone Repositori <br>
 Bash
 git clone [[https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3.git]](https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN_PBW-A-Praktikum3.git).
-2. Masuk ke Folder Proyek
-Bash
+2. Masuk ke Folder Proyek<br>
 cd 4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3/LaraPress
-3. Install Dependencies (Jika Diperlukan)
-Bash
+3. Install Dependencies <br>
 composer install
-4. Setup Environment File
-Bash
+4. Setup Environment File <br>
 cp .env.example .env
 php artisan key:generate
-5. Jalankan Server Lokal
-Bash
+5. Jalankan Server Lokal <br>
 php artisan serve
