@@ -43,7 +43,7 @@
 4. Jangan lupa tambahkan link navigasi ke dan dari halaman "Kontak" di halaman lainnya.
 
 ---
-### **Jawaban:**
+### **Jawaban & Pembahasan:**
 ### 1. Membuat Halaman Kontak
 Tampilan ini berisikan beberapa informasi seperti email pribadi,serta link github.
 <img width="1057" height="500" alt="1" src="https://github.com/user-attachments/assets/6a800f14-5f8a-4621-aec9-c0c8bc050ded" />
