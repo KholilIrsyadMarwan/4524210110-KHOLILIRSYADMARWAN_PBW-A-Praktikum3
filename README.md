@@ -27,9 +27,9 @@
 ## 📌 Soal Tugas Praktikum
 
 1. Buat satu halaman statis baru bernama **"Kontak"**.
-2. Halaman ini harus bisa diakses melalui URL `/kontak`[cite: 3].
-3. Isi halaman tersebut dengan informasi kontak fiktif (misal: email dan nomor telepon)[cite: 3].
-4. Jangan lupa tambahkan link navigasi ke dan dari halaman "Kontak" di halaman lainnya[cite: 3].
+2. Halaman ini harus bisa diakses melalui URL `/kontak`.
+3. Isi halaman tersebut dengan informasi kontak fiktif (misal: email dan nomor telepon).
+4. Jangan lupa tambahkan link navigasi ke dan dari halaman "Kontak" di halaman lainnya.
 
 ---
 ### **Jawaban:**
