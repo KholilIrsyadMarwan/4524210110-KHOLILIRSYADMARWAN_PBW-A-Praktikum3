@@ -19,17 +19,17 @@
 ---
 ## Instalasi
 
-1. Clone Repositori <br>
+### 1. Clone Repositori <br>
 git clone [https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN_PBW-A-Praktikum3.git].
-2. Masuk ke Folder Proyek<br>
+### 2. Masuk ke Folder Proyek<br>
 cd 4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3/LaraPress
-3. Install Dependencies <br>
+### 3. Install Dependencies <br>
 composer install
-4. Setup Environment File <br>
+### 4. Setup Environment File <br>
 cp .env.example .env <br>
 php artisan
 key:generate
-6. Jalankan Server Lokal <br>
+### 5. Jalankan Server Lokal <br>
 php artisan serve
 
 ---
