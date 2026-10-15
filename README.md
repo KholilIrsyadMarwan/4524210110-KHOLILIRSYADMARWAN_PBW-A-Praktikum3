@@ -108,7 +108,7 @@ cd 4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum3/LaraPress
 3. Install Dependencies <br>
 composer install
 4. Setup Environment File <br>
-cp .env.example .env
+cp .env.example .env <br>
 php artisan
 key:generate
 6. Jalankan Server Lokal <br>
