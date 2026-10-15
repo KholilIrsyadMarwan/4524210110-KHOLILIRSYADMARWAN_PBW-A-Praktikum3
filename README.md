@@ -17,7 +17,18 @@
 </div>
 
 ---
+## 📑 Daftar Isi
 
+- [🎯 Tentang Aplikasi](#-tentang-aplikasi)
+- [📌 Soal Tugas Praktikum](#-soal-tugas-praktikum)
+- [📝 Jawaban & Pembahasan](#-jawaban)
+- [📑 Fitur Halaman](#-fitur-halaman)
+- [✨ Fitur Utama](#-fitur-utama)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📸 Hasil Screenshot Tampilan Website LaraPress](#-hasil-screenshot-tampilan-website-larapress)
+- [⚙️ Cara Menjalankan Proyek](#️-cara-menjalankan-proyek)
+
+---
 ## 🎯 Tentang Aplikasi
 
 **LaraPress** adalah aplikasi portofolio interaktif berbasis **Laravel 12** yang dirancang untuk menampilkan profil profesional, metodologi pemrosesan data, serta saluran komunikasi dan repositori proyek secara terintegrasi.
@@ -60,7 +71,18 @@ Jadi kita bisa mengakses ke halaman beranda, tentang kami dan kontak.<br>
 
 
 ---
+## 📑 Fitur Halaman
 
+Aplikasi web ini memiliki 3 halaman statis utama:
+
+1. **Halaman Home / Beranda (`/`)**
+   - Menampilkan ringkasan profil pribadi, bidang keahlian (Data Science / Analytics), dan tombol navigasi cepat.
+2. **Halaman Tentang Kami / About (`/about`)**
+   - Menampilkan biografi singkat beserta metodologi dan alur kerja pemrosesan data (seperti *Data Cleaning*, *EDA*, dan *Prototyping*).
+3. **Halaman Kontak / Contact (`/kontak`)**
+   - Pusat saluran komunikasi interaktif yang menampilkan Email Mahasiswa, profil Instagram, serta tautan repositori GitHub[cite: 3].
+
+---
 ## ✨ Fitur Utama
 
 - ✅ **Halaman Kontak (`/kontak`)** - Menyajikan informasi saluran komunikasi resmi (Email Mahasiswa & Instagram) serta tautan repositori GitHub.
